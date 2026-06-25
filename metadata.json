@@ -1,0 +1,6 @@
+{
+  "name": "CineStream",
+  "description": "A modern streaming-inspired platform with smart recommendations, search, and seamless favorites tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
